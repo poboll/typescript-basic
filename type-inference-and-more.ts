@@ -1,4 +1,4 @@
-// type inference
+// type inference：TS会在没有明确指定类型时自动类型推断
 let str = 'str'
 // 不能将类型number分配给类型string
 // str = 123
